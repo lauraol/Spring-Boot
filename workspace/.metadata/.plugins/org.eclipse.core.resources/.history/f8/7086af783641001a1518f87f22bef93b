@@ -1,0 +1,2 @@
+//qual o caminho com a porta padrão+ nome da sua base
+spring.datasourse.url = jdbc:mysql://localhost:3306/sistemaalunos
